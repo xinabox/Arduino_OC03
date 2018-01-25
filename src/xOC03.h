@@ -62,7 +62,6 @@ class xOC03: public xCoreClass
 		* Used to write to the pin. HIGH or LOW. 
 		* Call this in loop().
 		*
-		* @param pin. OC01 has 4 Pin options to write to.
 		* @param state. State which you would like to write to the output pin.
 		* @return none
 		*/			
