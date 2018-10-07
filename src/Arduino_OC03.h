@@ -10,8 +10,8 @@
 	PCA9554A - http://www.ti.com/lit/ds/symlink/pca9554a.pdf
 */
 
-#ifndef xOC03_h
-#define xOC03_h
+#ifndef Arduino_OC03_h
+#define Arduino_OC03_h
 
 // Include File Headers
 #include "xCore.h"
