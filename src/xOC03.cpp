@@ -10,7 +10,7 @@
 	PCA9554A - http://www.ti.com/lit/ds/symlink/pca9554a.pdf
 */
 
-#include <arduino-OC03.h>
+#include <xOC03.h>
 
 /********************************************************
  	Constructor
