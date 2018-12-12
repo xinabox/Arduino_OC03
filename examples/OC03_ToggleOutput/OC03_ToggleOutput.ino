@@ -13,7 +13,7 @@
 *************************************************************/
 
 /********************* Library Includes *********************/
-#include <arduino-OC03.h> // https://github.com/xinabox/arduino-OC03
+#include <xOC03.h> // https://github.com/xinabox/arduino-OC03
 #include <xCore.h> 
 
 /****************** Global sensor objects *******************/
