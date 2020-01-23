@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/xinabox/arduino-OC03.svg?branch=master)](https://travis-ci.org/xinabox/arduino-OC03)
+
 # xCHIP OC03
 <img src="extras/OC03 V0.5.0.JPG" width="35%" height="auto" align="right">
 Relay Out Low Voltage
